@@ -1,4 +1,4 @@
-# **TextCraft – Powerful Online Text Analyzer**
+# **TextCraft – All-in-One Text Utility Tool**
 
 TextCraft is a responsive, all-in-one text utility web application built using **React.js**. It allows users to easily analyze, edit, clean, and manage text with just a few clicks. Features include case conversion, email extraction, speech synthesis, and more — designed to improve productivity and content clarity.
 
